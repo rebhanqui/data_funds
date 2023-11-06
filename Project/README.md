@@ -23,3 +23,4 @@ Any supporting data, image, or other files that form part of your submission. Th
 - Select, demonstrate, and explain the most appropriate summary statistics to describe each variable.
 - Select, demonstrate, and explain the most appropriate plot(s)for each variable.
 - The notebook should follow a cohesive narrative about the data set.
+

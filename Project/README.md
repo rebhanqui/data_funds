@@ -24,3 +24,8 @@ Any supporting data, image, or other files that form part of your submission. Th
 - Select, demonstrate, and explain the most appropriate plot(s)for each variable.
 - The notebook should follow a cohesive narrative about the data set.
 
+---
+
+**References**
+
+[^1]: Fisher,R. A.. (1988). Iris. UCI Machine Learning Repository. https://doi.org/10.24432/C56C76.

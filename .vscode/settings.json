@@ -1,6 +1,0 @@
-{
-    "cSpell.showAutocompleteSuggestions": true,
-    "python.globalModuleInstallation": true,
-    "jupyter.disableJupyterAutoStart": true,
-    "jupyter.exportWithOutputEnabled": true
-}
